@@ -9,7 +9,7 @@ medias/
 Use these HTTPS direct links:
 
 **General format:**
-https://raw.githubusercontent.com/AgnesChavez/live-coding-workshop/main/medias/FILENAME
+https://raw.githubusercontent.com/AgnesChavez/STEMarts-live-coding-workshop/main/medias/FILENAME
 
 ## ⚠️ Limits
 - Files up to 100MB recommended
