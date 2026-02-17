@@ -4,10 +4,6 @@
 
 ## 📁 Structure
 medias/
-├── image01.jpg
-├── video01.mp4
-├── image02.png
-└── ...
 
 ## 🔗 Direct Raw URLs
 Use these HTTPS direct links:
@@ -16,8 +12,8 @@ Use these HTTPS direct links:
 https://raw.githubusercontent.com/AgnesChavez/live-coding-workshop/main/medias/FILENAME
 
 **Examples:**
-- Image: `https://raw.githubusercontent.com/AgnesChavez/live-coding-workshop/main/medias/image01.jpg`
-- Video: `https://raw.githubusercontent.com/AgnesChavez/live-coding-workshop/main/medias/video01.mp4`
+- Image: `https://raw.githubusercontent.com/AgnesChavez/live-coding-workshop/main/medias/image.jpg`
+- Video: `https://raw.githubusercontent.com/AgnesChavez/live-coding-workshop/main/medias/video.mp4`
 
 **Replace `AgnesChavez/live-coding-workshop` with your actual repo.**
 
